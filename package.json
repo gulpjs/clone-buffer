@@ -1,6 +1,6 @@
 {
   "name": "clone-buffer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Easier Buffer cloning in node.",
   "author": "Gulp Team <team@gulpjs.com> (http://gulpjs.com/)",
   "contributors": [
