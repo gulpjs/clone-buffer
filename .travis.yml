@@ -4,10 +4,9 @@ arch:
   - amd64
   - ppc64le
 node_js:
-  - '6'
-  - '5'
-  - '4'
   - '12'
   - '10'
+  - '8'
+  - '6'
 after_script:
   - npm run coveralls
